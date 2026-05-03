@@ -1,0 +1,7 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price	Pins	3DModel	Contributor	JLCPCB Part Class	link
+"1"	"HDR-M-2.54_1x1"	"AD0,AD1,AD2,AD3,DATA2,GND2,IN2,INS2,JMP2,OE\WE,OUT2,VCC2,VCC3,OUT3,JMP3,INS3,IN3,GND3,DATA3"	"HDR-M-2.54_1X1"	"19"	""	""	"LCSC"	"C81276"	"0.014"	"1"	"HDR-M-2.54_1x1"	"LCEDA_Lib"	""	""
+"2"	"2SC945P"	"Q1,Q2,Q3"	"TO-92-3_L4.9-W3.7-P1.27-L"	"3"	"2SC945P"	"ST(先科)"	"LCSC"	"C118547"	"0.037"	"3"	"TO-92-3_L4.9-W3.7-P1.27-L"	"LCSC"	"Extended Part"	"https://atta.szlcsc.com/upload/public/pdf/source/20180629/C233232_99576441F8ED8E9074FB1575A6BE3592.PDF"
+"3"	"20kΩ"	"U1,U3,U4,U5,U6,U7,U8,U9"	"RES-TH_BD4.5-L11.0-P15.00-D0.7"	"8"	"RSS 2W 20K J T/B"	"Tyohm(幸亚电阻)"	"LCSC"	"C5200467"	"0.053"	"2"	"RES-TH_BD3.9-L9.0-P16.00-D0.6"	"lcsc"	"Extended Part"	"https://item.szlcsc.com/325357.html"
+"4"	"AT28C256F-15PC"	"U2"	"PDIP-28_L37.0-W13.5-P2.54-LS15.6-BL"	"1"	"AT28C256F-15PC"	"MICROCHIP(美国微芯)"	"LCSC"	"C19382386"	"56.853"	"28"	"PDIP-28_L37.0-W13.5-H5-P2.54-LS15.6-BL"	"lcsc"	"Extended Part"	"https://item.szlcsc.com/691564.html"
+"5"	"JRK1HR33M01500400070000B"	"U10"	"JRK1HR33M01500400070000B"	"1"	""	""	""	""	""	"2"	""	"maximgalaxy"	""	""
+"6"	"SN74HC163N"	"U33"	"DIP-16_L19.8-W6.5-P2.54-LS7.6-BL"	"1"	"SN74HC163N"	"TI(德州仪器)"	"LCSC"	"C2893"	"1.397"	"16"	"DIP-16_L20.0-W6.4-H3.5-LS7.62-P2.54"	"lcsc"	"Extended Part"	"https://item.szlcsc.com/580923.html"
